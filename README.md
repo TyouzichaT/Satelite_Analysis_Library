@@ -8,7 +8,7 @@ group 12.
 ## Installation
 
 ```bash
-pip install git+git://github.com/TyouzichaT/Satelite_Analysis_lib
+pip install git+git://github.com/TyouzichaT/Satelite_Analysis_library
 ```
 
 ## Usage
