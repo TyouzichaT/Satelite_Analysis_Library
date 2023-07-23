@@ -8,7 +8,7 @@ group 12.
 ## Installation
 
 ```bash
-pip install git+git://github.com/UCL-COMP0233-22-23/aigeanpy-Working-Group-12
+pip install git+git://github.com/TyouzichaT/Satelite_Analysis_lib
 ```
 
 ## Usage
