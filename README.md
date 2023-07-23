@@ -1,4 +1,4 @@
-# aigeanpy-Working-Group-12 
+# Satelite_Analysis_Library
 
 Welcome to the aigeanpy package! This is a package providing some basic tools for reading and 
 interpreting data from the Aigean observatory. It has been made as coursework for COMP0233 by
