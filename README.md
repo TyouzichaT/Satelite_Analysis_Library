@@ -1,8 +1,5 @@
 # Satelite_Analysis_Library
-
-Welcome to the aigeanpy package! This is a package providing some basic tools for reading and 
-interpreting data from the Aigean observatory. It has been made as coursework for COMP0233 by
-group 12.
+This library is used to analyse data from different instruments on-board a satellite. The instruments provide daily updates from a piece of land that can be used to track water levels at different locations.
 
 
 ## Installation
