@@ -6,7 +6,7 @@ The three imagers are called: **Lir**, **Manannan** and **Fand**.
 - **Manannan** provides a smaller field-of-view with a better resolution of 10 m per pixel;
 - **Fand** has the smallest field-of-view but a very high resolution of 1 m per pixel.
 
-The radar is called **Ecne** and it provides three measurements for the deepest areas in the region.
+The radar is called **Ecne** and it provides three measurements for the deepest areas in the region. The measurements are turbulence, salinity and algal density for these points.
 
 ## Installation
 
